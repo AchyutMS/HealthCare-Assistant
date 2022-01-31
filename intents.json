@@ -1,0 +1,247 @@
+{
+  "intents": [
+    {
+      "disease": "greeting",
+      "symptoms": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+      ],
+      "treatment": 
+        "Hi there, how can I help?"
+
+    },
+    {
+      "disease": "goodbye",
+      "symptoms": ["Bye", "See you later", "Goodbye"],
+      "treatment": 
+        "Have a nice day"
+    },
+    {
+      "disease": "thanks",
+      "symptoms": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+      "treatment": "Happy to help!"
+    },
+    
+    {
+      "disease": "It could be an Allergy.",
+      "symptoms": [
+        "sneezing",
+        "runny nose",
+        "blocked nose",
+        "itchy eyes",
+        "watery eyes",
+        "red eyes",
+        "itchy rash",
+        "red rash"
+      ],
+      "treatment": 
+        "It could be an Allergy. The treatment for an allergy depends on what you're allergic to. In many cases your pharmacist will be able to offer advice and treatment"
+      
+    },
+    {
+      "disease": "It could be an Ankle problem.",
+      "symptoms": ["leg pain", "ankle swelling", "ankle stiffness"],
+      "treatment": 
+        "It could be an Ankle problem. Speak to your community pharmacist or our healthcare professionals about taking medication or other methods of pain relief"
+      
+    },
+    {
+      "disease": "It could be Anxiety.",
+      "symptoms": ["restlessness", "feeling on edge", "difficulty concentrating", "irritability","tiredness","headache","excessive sweating"],
+      "treatment": 
+          "It could be Anxiety. You can visit our GP and discuss all your treatment options"
+      
+    },
+    {
+      "disease": "It could be Asthma.",
+      "symptoms": [
+        "wheezing",
+        "shortness of breath",
+        "tight chest"
+      ],
+      "treatment": 
+        "It could be Asthma. Reliever inhalers -usually blue - are taken to relieve asthma symptoms quickly"
+      
+    },
+    {
+      "disease": "It could be Appendicitis.",
+      "symptoms": [
+        "loss of appetite",
+        "diarrhoea",
+        "pain in lower stomach"
+      ],
+      "treatment": 
+        "It could be Appendicitis. If you have appendicitis, your appendix needs to be removed as soon as possible"
+      
+    },
+    {
+      "disease": "It could be Kaposi's sarcoma.",
+      "symptoms": [
+        "coughing up blood",
+        "diarrhoea",
+        "swelling in the arms or legs"
+      ],
+      "treatment": 
+        "It could be Kaposi's sarcoma. You can visit our Hospital and discuss all your treatments with our doctors"
+      
+    },
+    {
+      "disease": "It could be Kidney infection.",
+      "symptoms": [
+        "pain in your side or lower back",
+        "loss of appetite",
+        "feeling very weak or tired"
+      ],
+      "treatment": 
+        "It could be Kidney infection. You can treat yourself with a course of antibiotic or you can visit our hospital"
+      
+    },
+    {
+      "disease": "It could be Kidney stones.",
+      "symptoms": [
+        "severe pain in the abdomen",
+        "severe pain in the groin",
+        "causes a urinary tract infection"
+      ],
+      "treatment": 
+        "It could be Kidney stones. You can treat yourself with a course of antibiotic or you can visit our hospital"
+      
+    },
+    {
+      "disease": "It could be Labyrinthitis",
+      "symptoms": [
+        "ear infection",
+        "inflammation of the inner ear",
+        "ear pain"
+      ],
+      "treatment": 
+        "It could be Labyrinthitis.Drink plenty of liquid, little and often, particularly water, to avoid becoming dehydrated"
+      
+    },
+    {
+      "disease": "It could be Lactose intolerance.",
+      "symptoms": [
+        "bloated stomach",
+        "stomach rumbling",
+        "diarrhoea"
+      ],
+      "treatment": 
+        "It could be Lactose intolerance. Avoid consuming the milk products"
+      
+    },
+    {
+      "disease": "It could be Laryngitis.",
+      "symptoms": [
+        "voice box swollen",
+        "larynx swollen",
+        "throat infection"
+      ],
+      "treatment": 
+        "It could be Laryngitis. Avoiding speaking when possible and only speaking softly when you need to"
+      
+    },
+    {
+      "disease": "It could be Leg cramps.",
+      "symptoms": [
+        "leg pain",
+        "calf muscles pain",
+        "leg cramp"
+      ],
+      "treatment": 
+        "It could be Leg cramps. Do warm up excercise to relax your leg muscles"
+      
+    },
+    {
+      "disease": "It could be lupus.",
+      "symptoms": [
+        "Fatigue",
+        "Joint pain",
+        "Rashes"
+      ],
+      "treatment": 
+        "It could be lupus. You can visit our Hospital and discuss all your treatments with our doctors"
+      
+    },
+    {
+      "disease": "It could be Cornovirus",
+      "symptoms": [
+        "change is taste",
+        "change in smell",
+        "fever"
+      ],
+      "treatment": 
+        "It could be Coronavirus. Get tested as soon as possible and self-isolate yourself if you are positive"
+      
+    },
+    {
+      "disease": "It could be Measles.",
+      "symptoms": [
+        "swollen eyelids",
+        "white spots in the mouth",
+        "loss of appetite"
+      ],
+      "treatment": 
+        "It could be Measles. Drink plenty of fluids and keep the body hydrated"
+      
+    },
+    {
+      "disease": "It could be Mouth ulcer.",
+      "symptoms": [
+        "sore on cheeks",
+        "sore on lips",
+        "sore on tongue"
+      ],
+      "treatment": 
+        "It could be Mouth ulcer. Use antimicrobial mouthwash may speed up healing and prevent infection of the ulcer"
+      
+    },
+    {
+      "disease": "It could be Overactive thyroid.",
+      "symptoms": [
+        "muscle weakness",
+        "mood swings",
+        "sensitivity to heat"
+      ],
+      "treatment": 
+        "It could be thyroid. You can visit our Hospital and discuss all your treatments with our doctors"
+      
+    },
+    {
+      "disease": "It could be Psoriasis.",
+      "symptoms": [
+        "flaky",
+        "red skin",
+        "crusty skin patches"
+      ],
+      "treatment": 
+        "It could be Psoriasis. You can visit our Hospital and discuss all your treatments with our doctors"
+
+    },
+    {
+      "disease": "It could be fungal infections.",
+      "symptoms": [
+        "red ring skin",
+        "itchy scalp",
+        "rash"
+      ],
+      "treatment": 
+        "It could be fungal infections. You may have fungal infection so contact your doctor for further treatment"
+      
+    },
+    {
+      "disease": "It could be Yellow fever.",
+      "symptoms": [
+        "sickness and vomitting",
+        "muscle pain",
+        "yellowing of skin"
+      ],
+      "treatment": 
+        "It could be Yellow fever. You can visit our Hospital and discuss all your treatments with our doctors"
+    
+    }
+  ]
+}

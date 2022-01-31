@@ -21,6 +21,6 @@ We have built a knowledge database for limited diseases, their symptoms and thei
 ## Product Flow and Its Underlying Architecture
 
 
-![Tux, the Linux mascot](/images/product_flow.png)
-![Tux, the Linux mascot](/images/bag_of_words.jpeg)
-![Tux, the Linux mascot](/images/feed_forward.jpeg)
+![Product Flow](/standalone-frontend/images/product_flow.png)
+![Bag of words technique](/standalone-frontend/images/bag_of_words.jpeg)
+![Feed Forward Neural Network](/standalone-frontend/images/feed_forward.jpeg)

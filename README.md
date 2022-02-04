@@ -18,9 +18,9 @@ We have built a knowledge database for limited diseases, their symptoms and thei
 2. We then Built a chatbot framework to process the responses.
 3. We can access the bot from the website after integrating the chatbot framework.
 
-## Product Flow and Its Underlying Architecture
+## Product Prototype
 
 
-![Product Flow](/standalone-frontend/images/product_flow.png)
-![Bag of words technique](/standalone-frontend/images/bag_of_words.jpeg)
-![Feed Forward Neural Network](/standalone-frontend/images/feed_forward.jpeg)
+![Webpage](/standalone-frontend/images/healthcare-assistant-ss1)
+![Chatbot pic 1](/standalone-frontend/images/healthcare-assistant-ss2)
+![Chatbot pic 2](/standalone-frontend/images/healthcare-assistant-ss3)

@@ -21,6 +21,6 @@ We have built a knowledge database for limited diseases, their symptoms and thei
 ## Product Prototype
 
 
-![Webpage](/standalone-frontend/images/healthcare-assistant-ss1)
-![Chatbot pic 1](/standalone-frontend/images/healthcare-assistant-ss2)
-![Chatbot pic 2](/standalone-frontend/images/healthcare-assistant-ss3)
+![Webpage](/standalone-frontend/images/healthcare-assistant-ss1.png)
+![Chatbot pic 1](/standalone-frontend/images/healthcare-assistant-ss2.png)
+![Chatbot pic 2](/standalone-frontend/images/healthcare-assistant-ss3.png)

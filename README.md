@@ -1,5 +1,4 @@
 # HealthCare Assistant
-##### Submission for IEI Hackathon v1.0 by Team Maria
 
 ## About
 HealthCare Assistant is an ML-driven chatbot that will assist you in analyzing your symptoms and predicting the disease. The chatbot can respond to your queries only to the of the knowledge base, so it is adviced to crosscheck the responses with a medical professional.
